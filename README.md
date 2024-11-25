@@ -1,15 +1,18 @@
 # Airbnb Dashboard 
 
 ## Overview
-This dashboard provides visual insights into Airbnb listings and booking data. It offers a comprehensive view of key metrics and trends to help users make informed decisions related to Airbnb property management, pricing strategies, and market analysis.
+This dashboard provides visual insights into Airbnb listings and booking data. It offers a comprehensive view of key metrics and trends to help users make informed decisions about Airbnb property management, pricing strategies, and market analysis.
 
 ## Features
 + Interactive Visualizations: Explore dynamic charts, graphs, and maps that enable users to interactively analyze Airbnb data.
 + Key Metrics: Track important metrics such as booking trends, occupancy rates, average nightly rates, and geographical distribution of listings.
-+ Filtering and Drill-Down: Utilize filtering options to narrow down data by property type, location, availability, and other criteria. Drill-down into specific details for deeper analysis.
++ Filtering and Drill-Down: Utilize filtering options to narrow down data by property type, location, availability, and other criteria. Drill down into specific details for deeper analysis.
 + Booking Trends: Visualize booking trends over time, including seasonal variations, peak booking periods, and historical performance.
 + Property Performance: Assess the performance of individual listings based on factors such as ratings, reviews, and booking frequency.
 + Market Comparison: Compare Airbnb market trends across different locations, property types, and price ranges.
+
+## More Projects
+https://public.tableau.com/app/profile/toluomotayo/vizzes 
 
 ## Usage
 + Accessing the Dashboard: Open the Tableau workbook provided in the repository using Tableau Desktop or Tableau Public.
